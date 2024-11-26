@@ -1,2 +1,2 @@
 # my-first-website
-Hello itdi
+Hello Informatics
